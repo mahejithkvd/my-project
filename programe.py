@@ -1,5 +1,8 @@
-value = 20
+from File import Car
+
+File = Car("A")
 
 print("Hello world")
-print(value)
+
+print(File.value)
 
