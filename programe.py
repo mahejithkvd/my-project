@@ -6,3 +6,4 @@ print("Hello world")
 
 print(File.value)
 
+print("Welcome...")
